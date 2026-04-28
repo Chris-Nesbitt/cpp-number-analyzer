@@ -31,6 +31,4 @@ The program also computes and displays:
 - Full 64-bit binary representation
 - Decimal representation with thousands separators
 
-## Purpose
-This project was developed as a programming exercise to practice numerical
-algorithms, number theory concepts, and console-based program design in C++.
+Created as a programming assignment in the Computer Programming and Analysis program at Fanshawe College.
